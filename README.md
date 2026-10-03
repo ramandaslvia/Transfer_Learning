@@ -172,7 +172,8 @@ Adam([{"params": m.layer4.parameters(), "lr": 1e-4},
 
 Tabel lengkap ada di `results/tabel_hasil.md`.
 
-![Akurasi per epoch](results/akurasi_per_epoch.png)
+![Akurasi per epoch](<img width="1050" height="630" alt="akurasi_per_epoch" src="https://github.com/user-attachments/assets/646e2808-b693-4516-9212-46781531f6dd" />
+)
 
 Catatan: `results/` berisi run terakhir. Pada run `scratch` sebelumnya (dengan seed dan konfigurasi sama, hasil tidak disimpan) akurasi val terbaik 96,1% pada epoch 6 tetapi 89,6% pada epoch 10, dengan waktu latih 115 s. Pada run `partial` pertama, waktu latih 80 s (run terakhir 66 s); akurasinya sama. Angka run sebelumnya diambil dari log terminal.
 
