@@ -172,7 +172,7 @@ Adam([{"params": m.layer4.parameters(), "lr": 1e-4},
 
 Tabel lengkap ada di `results/tabel_hasil.md`.
 
-![Akurasi per epoch]
+Akurasi per epoch
 <img width="1050" height="630" alt="akurasi_per_epoch" src="https://github.com/user-attachments/assets/e8e6c684-887c-43bb-84b8-f28e5cc461cc" />
 
 
