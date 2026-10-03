@@ -1,0 +1,15 @@
+{
+  "mode": "scratch",
+  "bobot_awal": "acak",
+  "parameter_dilatih": 11178051,
+  "akurasi_val_terbaik": 0.8701298701298701,
+  "epoch_terbaik": 10,
+  "epoch_pertama_acc_ge_90": null,
+  "waktu_latih_detik": 110.3,
+  "kelas": [
+    "lantai_datar",
+    "manusia",
+    "tangga"
+  ],
+  "device": "cpu"
+}

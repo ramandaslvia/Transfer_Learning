@@ -1,0 +1,10 @@
+# lingkungan virtual dan cache Python
+.venv/
+__pycache__/
+*.pyc
+
+# hasil split.py (bisa dibuat ulang dengan python split.py)
+dataset/
+
+# bobot model hasil pelatihan (besar)
+*.pt

@@ -1,0 +1,15 @@
+{
+  "mode": "feature",
+  "bobot_awal": "ImageNet",
+  "parameter_dilatih": 1539,
+  "akurasi_val_terbaik": 0.974025974025974,
+  "epoch_terbaik": 5,
+  "epoch_pertama_acc_ge_90": 3,
+  "waktu_latih_detik": 59.4,
+  "kelas": [
+    "lantai_datar",
+    "manusia",
+    "tangga"
+  ],
+  "device": "cpu"
+}
